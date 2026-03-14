@@ -1,0 +1,48 @@
+# Core data processing
+pandas
+numpy
+pyarrow
+joblib
+
+# Data science / ML utilities
+scikit-learn
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Notebook environment
+jupyter
+notebook
+ipykernel
+tqdm
+
+# Graph Neural Networks
+torch
+torchvision
+torchaudio
+torch-geometric
+
+# FastAPI backend
+fastapi
+uvicorn
+pydantic
+python-multipart
+
+# Frontend dashboard
+streamlit
+
+# Configuration / utilities
+python-dotenv
+pyyaml
+
+# Optional experiment tracking
+tensorboard
+
+# Time series forecasting helpers
+statsmodels
+
+# API requests
+requests
